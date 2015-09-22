@@ -2,3 +2,5 @@
 
 # ram2code-utils
 Utils for code generators
+
+This is part of the [raml2code](https://github.com/gextech/raml2code.git) project.
